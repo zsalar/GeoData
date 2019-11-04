@@ -1,0 +1,441 @@
+# ----------------------------------------,,,
+# All Web Site Data,,,
+# Project,,,
+# 20190501-20191029,,,
+# ----------------------------------------,,,
+,,,
+City,Country,Data Source,Users
+Boardman,United States,web,415
+(not set),Iran,web,75
+New York,United States,web,45
+(not set),United States,web,41
+Chicago,United States,web,28
+Hornell,United States,web,28
+Philadelphia,United States,web,28
+Irvine,United States,web,26
+(not set),France,web,23
+Los Angeles,United States,web,21
+San Francisco,United States,web,20
+Alfred,United States,web,20
+Milwaukee,United States,web,19
+Dallas,United States,web,18
+Houston,United States,web,18
+Washington,United States,web,17
+Ithaca,United States,web,16
+Ottawa,Canada,web,10
+Montreal,Canada,web,9
+San Diego,United States,web,9
+Syracuse,United States,web,9
+(not set),Germany,web,8
+Toronto,Canada,web,8
+San Jose,United States,web,8
+Seattle,United States,web,8
+(not set),United Arab Emirates,web,7
+Richmond Hill,Canada,web,7
+Santa Clara,United States,web,7
+Fort Collins,United States,web,7
+(not set),(not set),web,6
+Laguna Niguel,United States,web,6
+Atlanta,United States,web,6
+Paramus,United States,web,6
+Columbus,United States,web,6
+Frisco,United States,web,6
+McKinney,United States,web,6
+Plano,United States,web,6
+Sahibzada Ajit Singh Nagar,India,web,6
+Vienna,Austria,web,5
+Paris,France,web,5
+Stockholm,Sweden,web,5
+Riverside,United States,web,5
+Baltimore,United States,web,5
+North Tonawanda,United States,web,5
+Nashville,United States,web,5
+Corpus Christi,United States,web,5
+San Antonio,United States,web,5
+(not set),United Kingdom,web,4
+Aliso Viejo,United States,web,4
+Richmond,United States,web,4
+Colorado Springs,United States,web,4
+Orlando,United States,web,4
+Boston,United States,web,4
+Rockville,United States,web,4
+Columbia,United States,web,4
+Jersey City,United States,web,4
+Getzville,United States,web,4
+Madison,United States,web,4
+Waukesha,United States,web,4
+Morgantown,United States,web,4
+(not set),Ukraine,web,3
+Sydney,Australia,web,3
+Edmonton,Canada,web,3
+North Vancouver,Canada,web,3
+Berlin,Germany,web,3
+Dusseldorf,Germany,web,3
+London,United Kingdom,web,3
+Istanbul,Turkey,web,3
+Indio,United States,web,3
+Martinez,United States,web,3
+Oakland,United States,web,3
+San Leandro,United States,web,3
+New Haven,United States,web,3
+Weston,United States,web,3
+Marietta,United States,web,3
+Evanston,United States,web,3
+Lake Zurich,United States,web,3
+Schaumburg,United States,web,3
+Germantown,United States,web,3
+Charlotte,United States,web,3
+Raleigh,United States,web,3
+Buffalo,United States,web,3
+Cranberry Township,United States,web,3
+Allen,United States,web,3
+Arlington,United States,web,3
+Austin,United States,web,3
+College Station,United States,web,3
+Fort Worth,United States,web,3
+Arlington,United States,web,3
+Ashburn,United States,web,3
+Blacksburg,United States,web,3
+Reston,United States,web,3
+Everett,United States,web,3
+Short Pump,United States,web,3
+Tysons,United States,web,3
+Whitefish Bay,United States,web,3
+(not set),Canada,web,2
+(not set),Netherlands,web,2
+Adelaide,Australia,web,2
+Graz,Austria,web,2
+Zurich,Switzerland,web,2
+Kaiserslautern,Germany,web,2
+Barcelona,Spain,web,2
+Wembley,United Kingdom,web,2
+Budapest,Hungary,web,2
+Bengaluru,India,web,2
+Venice,Italy,web,2
+Kuala Lumpur,Malaysia,web,2
+Phoenix,United States,web,2
+Campbell,United States,web,2
+Danville,United States,web,2
+Milpitas,United States,web,2
+Mountain View,United States,web,2
+Orange,United States,web,2
+Pleasanton,United States,web,2
+Rancho Cucamonga,United States,web,2
+San Mateo,United States,web,2
+Walnut Creek,United States,web,2
+Denver,United States,web,2
+Tallahassee,United States,web,2
+Amherst,United States,web,2
+Cambridge,United States,web,2
+Bethesda,United States,web,2
+College Park,United States,web,2
+Gaithersburg,United States,web,2
+Ann Arbor,United States,web,2
+Detroit,United States,web,2
+Grand Rapids,United States,web,2
+Apex,United States,web,2
+Clifton,United States,web,2
+Hackensack,United States,web,2
+Newark,United States,web,2
+Ridgewood,United States,web,2
+Scotch Plains,United States,web,2
+Westfield,United States,web,2
+Manlius,United States,web,2
+Ossining,United States,web,2
+Troy,United States,web,2
+Westlake,United States,web,2
+Oklahoma City,United States,web,2
+Hazleton,United States,web,2
+Jamison,United States,web,2
+Upper Darby,United States,web,2
+Brentwood,United States,web,2
+Bryan,United States,web,2
+Flower Mound,United States,web,2
+Richardson,United States,web,2
+Burke,United States,web,2
+McLean,United States,web,2
+Bellevue,United States,web,2
+Kirkland,United States,web,2
+Cedarburg,United States,web,2
+Mequon,United States,web,2
+Oak Creek,United States,web,2
+Andover,United States,web,2
+Brambleton,United States,web,2
+Brown Deer,United States,web,2
+Davie,United States,web,2
+Fulshear,United States,web,2
+Jersey Village,United States,web,2
+Royal Palm Beach,United States,web,2
+Sharon,United States,web,2
+South Salt Lake,United States,web,2
+Wauwatosa,United States,web,2
+Wyoming,United States,web,2
+Delhi,India,web,2
+(not set),Brazil,web,1
+(not set),Czechia,web,1
+(not set),Georgia,web,1
+(not set),India,web,1
+(not set),Iraq,web,1
+(not set),Italy,web,1
+(not set),Kuwait,web,1
+(not set),Oman,web,1
+(not set),Poland,web,1
+(not set),Paraguay,web,1
+(not set),Qatar,web,1
+(not set),Turkey,web,1
+Dubai,United Arab Emirates,web,1
+Canberra,Australia,web,1
+Brisbane,Australia,web,1
+Melbourne,Australia,web,1
+Brussels,Belgium,web,1
+Calgary,Canada,web,1
+Grande Prairie,Canada,web,1
+Burnaby,Canada,web,1
+Coquitlam,Canada,web,1
+Port Coquitlam,Canada,web,1
+Surrey,Canada,web,1
+Vancouver,Canada,web,1
+Moncton,Canada,web,1
+Bedford,Canada,web,1
+Aurora,Canada,web,1
+Brantford,Canada,web,1
+Kitchener,Canada,web,1
+London,Canada,web,1
+Gatineau,Canada,web,1
+Longueuil,Canada,web,1
+Sainte-Julie,Canada,web,1
+Geneva,Switzerland,web,1
+Winterthur,Switzerland,web,1
+Putian,China,web,1
+Zhengzhou,China,web,1
+Prague,Czechia,web,1
+Erlangen,Germany,web,1
+Munich,Germany,web,1
+Dreieich,Germany,web,1
+Frankfurt,Germany,web,1
+Paderborn,Germany,web,1
+Worms,Germany,web,1
+Quedlinburg,Germany,web,1
+Espoo,Finland,web,1
+Cambridge,United Kingdom,web,1
+Peterborough,United Kingdom,web,1
+Antrim,United Kingdom,web,1
+Glasgow,United Kingdom,web,1
+Cardiff,United Kingdom,web,1
+Szeged,Hungary,web,1
+Mumbai,India,web,1
+Tel Aviv-Yafo,Israel,web,1
+Cornaredo,Italy,web,1
+Yokohama,Japan,web,1
+Nur-Sultan,Kazakhstan,web,1
+Incheon,South Korea,web,1
+Utrecht,Netherlands,web,1
+Naaldwijk,Netherlands,web,1
+Porto,Portugal,web,1
+Bucharest,Romania,web,1
+Sollentuna,Sweden,web,1
+Linkoping,Sweden,web,1
+Chandler,United States,web,1
+Sierra Vista,United States,web,1
+Albany,United States,web,1
+Berkeley,United States,web,1
+Beverly Hills,United States,web,1
+Burlingame,United States,web,1
+Calabasas,United States,web,1
+Concord,United States,web,1
+El Dorado Hills,United States,web,1
+Fremont,United States,web,1
+Hemet,United States,web,1
+Hercules,United States,web,1
+Hermosa Beach,United States,web,1
+Hollister,United States,web,1
+La Quinta,United States,web,1
+Laguna Beach,United States,web,1
+Lawndale,United States,web,1
+Livermore,United States,web,1
+Menlo Park,United States,web,1
+Mission Viejo,United States,web,1
+Monrovia,United States,web,1
+Morgan Hill,United States,web,1
+Newport Beach,United States,web,1
+Orinda,United States,web,1
+Palo Alto,United States,web,1
+Pleasant Hill,United States,web,1
+Pomona,United States,web,1
+Sacramento,United States,web,1
+San Gabriel,United States,web,1
+Santa Ana,United States,web,1
+Saratoga,United States,web,1
+Sunnyvale,United States,web,1
+Torrance,United States,web,1
+Tustin,United States,web,1
+Parker,United States,web,1
+Hartford,United States,web,1
+Waterbury,United States,web,1
+Hockessin,United States,web,1
+Apopka,United States,web,1
+Boca Raton,United States,web,1
+Jacksonville,United States,web,1
+Melbourne,United States,web,1
+Lilburn,United States,web,1
+Woodstock,United States,web,1
+Ames,United States,web,1
+Boise,United States,web,1
+Buffalo Grove,United States,web,1
+Elk Grove Village,United States,web,1
+Glenview,United States,web,1
+Gurnee,United States,web,1
+Skokie,United States,web,1
+Urbana,United States,web,1
+Fort Wayne,United States,web,1
+West Lafayette,United States,web,1
+Lawrence,United States,web,1
+Hindman,United States,web,1
+Belmont,United States,web,1
+Maynard,United States,web,1
+Natick,United States,web,1
+Quincy,United States,web,1
+Stoneham,United States,web,1
+Waltham,United States,web,1
+Westwood,United States,web,1
+Winchester,United States,web,1
+Woburn,United States,web,1
+Worcester,United States,web,1
+Severn,United States,web,1
+Takoma Park,United States,web,1
+Dearborn Heights,United States,web,1
+Novi,United States,web,1
+Southfield,United States,web,1
+Minneapolis,United States,web,1
+Chesterfield,United States,web,1
+Kansas City,United States,web,1
+Rolla,United States,web,1
+St. Louis,United States,web,1
+Cornelius,United States,web,1
+Kernersville,United States,web,1
+Fargo,United States,web,1
+Lincoln,United States,web,1
+Omaha,United States,web,1
+Dover,United States,web,1
+Manchester,United States,web,1
+Merrimack,United States,web,1
+Cherry Hill,United States,web,1
+Demarest,United States,web,1
+Edgewater,United States,web,1
+Englewood,United States,web,1
+Fair Lawn,United States,web,1
+Fort Lee,United States,web,1
+Harrison,United States,web,1
+Hasbrouck Heights,United States,web,1
+Kearny,United States,web,1
+Mahwah,United States,web,1
+Metuchen,United States,web,1
+Moorestown,United States,web,1
+New Brunswick,United States,web,1
+Passaic,United States,web,1
+Rahway,United States,web,1
+Rutherford,United States,web,1
+Secaucus,United States,web,1
+Summit,United States,web,1
+Voorhees Township,United States,web,1
+West Orange,United States,web,1
+Carson City,United States,web,1
+Las Vegas,United States,web,1
+Reno,United States,web,1
+Albany,United States,web,1
+Baldwinsville,United States,web,1
+Centereach,United States,web,1
+East Greenbush,United States,web,1
+Eastchester,United States,web,1
+Hornell,United States,(not set),1
+Moravia,United States,web,1
+New City,United States,web,1
+Poughkeepsie,United States,web,1
+Voorheesville,United States,web,1
+Cincinnati,United States,web,1
+Cleveland,United States,web,1
+Dublin,United States,web,1
+Painesville,United States,web,1
+Sylvania,United States,web,1
+Toledo,United States,web,1
+Edmond,United States,web,1
+Norman,United States,web,1
+Stillwater,United States,web,1
+Portland,United States,web,1
+Bala Cynwyd,United States,web,1
+Bensalem,United States,web,1
+Canonsburg,United States,web,1
+Chalfont,United States,web,1
+Glenshaw,United States,web,1
+King of Prussia,United States,web,1
+Lansdale,United States,web,1
+Wayne,United States,web,1
+Providence,United States,web,1
+Irmo,United States,web,1
+Cookeville,United States,web,1
+Memphis,United States,web,1
+Cleveland,United States,web,1
+Denton,United States,web,1
+Forney,United States,web,1
+Garland,United States,web,1
+Kingsville,United States,web,1
+Mesquite,United States,web,1
+Odessa,United States,web,1
+Provo,United States,web,1
+Alexandria,United States,web,1
+Arcola,United States,web,1
+Forest,United States,web,1
+Leesburg,United States,web,1
+Newport News,United States,web,1
+Springfield,United States,web,1
+Vienna,United States,web,1
+Winchester,United States,web,1
+South Burlington,United States,web,1
+Bellingham,United States,web,1
+Pullman,United States,web,1
+Quincy,United States,web,1
+Appleton,United States,web,1
+Grafton,United States,web,1
+La Crosse,United States,web,1
+Middleton,United States,web,1
+New Berlin,United States,web,1
+Oregon,United States,web,1
+Sturtevant,United States,web,1
+Sun Prairie,United States,web,1
+Aspen Hill,United States,web,1
+Aventura,United States,web,1
+Bee Cave,United States,web,1
+Cinco Ranch,United States,web,1
+Coral Springs,United States,web,1
+Egypt Lake-Leto,United States,web,1
+Fox Point,United States,web,1
+Granite Bay,United States,web,1
+Highlands Ranch,United States,web,1
+Jefferson,United States,web,1
+Kaanapali,United States,web,1
+Mayfield Heights,United States,web,1
+Mill Creek,United States,web,1
+Old Bridge Township,United States,web,1
+Pecan Grove,United States,web,1
+Pike Creek,United States,web,1
+Pittsfield Charter Township,United States,web,1
+Plymouth Charter Township,United States,web,1
+Shaker Heights,United States,web,1
+South Barrington,United States,web,1
+South Kingstown,United States,web,1
+Thornton,United States,web,1
+Tonawanda,United States,web,1
+Town 'n' Country,United States,web,1
+Union Park,United States,web,1
+University City,United States,web,1
+University Park,United States,web,1
+Wallingford,United States,web,1
+Webster Groves,United States,web,1
+West Falls Church,United States,web,1
+West Goshen,United States,web,1
+West Melbourne,United States,web,1
+West Windsor Township,United States,web,1
+Wetherington,United States,web,1
+Woodbourne,United States,web,1
+Woodbridge Township,United States,web,1
+York charter Township,United States,web,1
