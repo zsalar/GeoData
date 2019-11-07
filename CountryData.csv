@@ -1,10 +1,4 @@
-# ----------------------------------------,,,
-# All Web Site Data,,,
-# New Custom Report,,,
-# 20190501-20191105,,,
-# ----------------------------------------,,,
-,,,
-Country ISO Code,Country,Users,Bounce Rate
+Code,Country,Users,Bounce Rate
 US,United States,"1,310",46.76%
 IR,Iran,81,33.33%
 CA,Canada,61,34.92%
