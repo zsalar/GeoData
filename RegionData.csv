@@ -1,0 +1,307 @@
+# ----------------------------------------
+# All Web Site Data
+# RegionData
+# 20190501-20191109
+# ----------------------------------------
+
+Region,Region ISO Code,Users
+Oregon,US-OR,418
+California,US-CA,181
+(not set),(not set),158
+New York,US-NY,138
+Texas,US-TX,103
+Pennsylvania,US-PA,48
+Wisconsin,US-WI,48
+New Jersey,US-NJ,47
+Illinois,US-IL,44
+Ontario,CA-ON,30
+Virginia,US-VA,30
+Maryland,US-MD,23
+Florida,US-FL,22
+Massachusetts,US-MA,21
+Washington,US-WA,20
+District of Columbia,US-DC,18
+Ohio,US-OH,18
+Colorado,US-CO,17
+Michigan,US-MI,14
+Quebec,CA-QC,12
+British Columbia,CA-BC,11
+Georgia,US-GA,10
+Missouri,US-MO,10
+Connecticut,US-CT,9
+North Carolina,US-NC,9
+Tennessee,US-TN,9
+England,GB-ENG,8
+Nevada,US-NV,7
+Punjab,IN-PB,6
+Stockholm County,SE-AB,6
+Vienna,AT-9,5
+Alberta,CA-AB,5
+Berlin,DE-BE,5
+Ile-de-France,FR-IDF,5
+Oklahoma,US-OK,5
+North Rhine-Westphalia,DE-NW,4
+Arizona,US-AZ,4
+West Virginia,US-WV,4
+New South Wales,AU-NSW,3
+Rhineland-Palatinate,DE-RP,3
+Istanbul,TR-34,3
+New Hampshire,US-NH,3
+Utah,US-UT,3
+South Australia,AU-SA,2
+Styria,AT-6,2
+Nova Scotia,CA-NS,2
+Zurich,CH-ZH,2
+Beijing,CN-11,2
+Bavaria,DE-BY,2
+Hesse,DE-HE,2
+Catalonia,ES-CT,2
+Budapest,HU-BU,2
+Delhi,IN-DL,2
+Karnataka,IN-KA,2
+Federal Territory of Kuala Lumpur,MY-14,2
+Delaware,US-DE,2
+Indiana,US-IN,2
+Nebraska,US-NE,2
+Rhode Island,US-RI,2
+Veneto,IT-34,2
+Australian Capital Territory,AU-ACT,1
+Queensland,AU-QLD,1
+Victoria,AU-VIC,1
+Brussels,BE-BRU,1
+New Brunswick,CA-NB,1
+Geneva,CH-GE,1
+Fujian,CN-35,1
+Henan,CN-41,1
+Saxony-Anhalt,DE-ST,1
+Northern Ireland,GB-NIR,1
+Scotland,GB-SCT,1
+Wales,GB-WLS,1
+Csongrad,HU-CS,1
+Maharashtra,IN-MH,1
+Rajasthan,IN-RJ,1
+Tel Aviv District,IL-TA,1
+Kanagawa,JP-14,1
+Utrecht,NL-UT,1
+South Holland,NL-ZH,1
+Vestfold,NO-07,1
+Porto District,PT-13,1
+Bucharest,RO-B,1
+Moscow,RU-MOW,1
+Ostergotland County,SE-E,1
+Kirovohrad Oblast,UA-35,1
+Hawaii,US-HI,1
+Iowa,US-IA,1
+Idaho,US-ID,1
+Kansas,US-KS,1
+Kentucky,US-KY,1
+Louisiana,US-LA,1
+Minnesota,US-MN,1
+North Dakota,US-ND,1
+South Carolina,US-SC,1
+Vermont,US-VT,1
+Incheon,KR-28,1
+Prague,CZ-PR,1
+Dubai,AE-DU,1
+Campania,IT-72,1
+Lombardy,IT-25,1
+Al Asimah Governate,KW-KU,1
+Duhok Governorate,IQ-DA,1
+Uusimaa,FI-18,1
+,,"1,624"
+
+Day Index,Users
+5/1/19,3
+5/2/19,2
+5/3/19,4
+5/4/19,1
+5/5/19,1
+5/6/19,2
+5/7/19,1
+5/8/19,4
+5/9/19,1
+5/10/19,0
+5/11/19,1
+5/12/19,3
+5/13/19,2
+5/14/19,3
+5/15/19,1
+5/16/19,2
+5/17/19,2
+5/18/19,1
+5/19/19,1
+5/20/19,4
+5/21/19,4
+5/22/19,7
+5/23/19,27
+5/24/19,31
+5/25/19,10
+5/26/19,8
+5/27/19,12
+5/28/19,51
+5/29/19,29
+5/30/19,21
+5/31/19,5
+6/1/19,31
+6/2/19,27
+6/3/19,6
+6/4/19,4
+6/5/19,29
+6/6/19,16
+6/7/19,17
+6/8/19,23
+6/9/19,6
+6/10/19,10
+6/11/19,8
+6/12/19,6
+6/13/19,3
+6/14/19,4
+6/15/19,3
+6/16/19,3
+6/17/19,4
+6/18/19,9
+6/19/19,14
+6/20/19,32
+6/21/19,32
+6/22/19,27
+6/23/19,12
+6/24/19,6
+6/25/19,0
+6/26/19,7
+6/27/19,2
+6/28/19,19
+6/29/19,7
+6/30/19,6
+7/1/19,4
+7/2/19,2
+7/3/19,1
+7/4/19,1
+7/5/19,3
+7/6/19,2
+7/7/19,0
+7/8/19,48
+7/9/19,11
+7/10/19,7
+7/11/19,1
+7/12/19,3
+7/13/19,7
+7/14/19,4
+7/15/19,10
+7/16/19,12
+7/17/19,3
+7/18/19,2
+7/19/19,0
+7/20/19,2
+7/21/19,2
+7/22/19,1
+7/23/19,2
+7/24/19,1
+7/25/19,1
+7/26/19,0
+7/27/19,1
+7/28/19,1
+7/29/19,6
+7/30/19,4
+7/31/19,4
+8/1/19,0
+8/2/19,1
+8/3/19,1
+8/4/19,6
+8/5/19,5
+8/6/19,5
+8/7/19,3
+8/8/19,6
+8/9/19,1
+8/10/19,5
+8/11/19,7
+8/12/19,9
+8/13/19,7
+8/14/19,3
+8/15/19,1
+8/16/19,3
+8/17/19,3
+8/18/19,3
+8/19/19,0
+8/20/19,1
+8/21/19,14
+8/22/19,4
+8/23/19,1
+8/24/19,9
+8/25/19,8
+8/26/19,3
+8/27/19,21
+8/28/19,15
+8/29/19,20
+8/30/19,8
+8/31/19,12
+9/1/19,29
+9/2/19,29
+9/3/19,28
+9/4/19,9
+9/5/19,1
+9/6/19,3
+9/7/19,5
+9/8/19,4
+9/9/19,3
+9/10/19,4
+9/11/19,2
+9/12/19,3
+9/13/19,8
+9/14/19,3
+9/15/19,5
+9/16/19,5
+9/17/19,4
+9/18/19,10
+9/19/19,15
+9/20/19,2
+9/21/19,2
+9/22/19,3
+9/23/19,2
+9/24/19,4
+9/25/19,7
+9/26/19,32
+9/27/19,148
+9/28/19,378
+9/29/19,20
+9/30/19,12
+10/1/19,5
+10/2/19,6
+10/3/19,17
+10/4/19,9
+10/5/19,4
+10/6/19,18
+10/7/19,28
+10/8/19,32
+10/9/19,14
+10/10/19,6
+10/11/19,3
+10/12/19,1
+10/13/19,3
+10/14/19,5
+10/15/19,4
+10/16/19,23
+10/17/19,10
+10/18/19,4
+10/19/19,2
+10/20/19,3
+10/21/19,0
+10/22/19,3
+10/23/19,2
+10/24/19,1
+10/25/19,4
+10/26/19,7
+10/27/19,4
+10/28/19,3
+10/29/19,4
+10/30/19,3
+10/31/19,6
+11/1/19,18
+11/2/19,8
+11/3/19,10
+11/4/19,7
+11/5/19,3
+11/6/19,3
+11/7/19,4
+11/8/19,5
+11/9/19,2
+,"2,022"
