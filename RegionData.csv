@@ -1,10 +1,4 @@
-# ----------------------------------------,,
-# All Web Site Data,,
-# RegionData,,
-# 20190501-20191109,,
-# ----------------------------------------,,
-,,
-Region,Region ISO Code,Users
+City,States,Users
 Oregon,OR,418
 California,CA,181
 (not set),(not set),158
